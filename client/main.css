@@ -1,0 +1,33 @@
+body {
+    background-color: #39254f;
+    color: #fff;
+}
+
+input {
+    border: 1px solid #39254f !important;
+    outline: none !important;
+}
+
+
+textarea {
+    resize: none;
+    border: 1px solid #39254f !important;
+}
+
+.btn-info {
+    background-color: #39254f;
+    border: none;
+    outline: none;
+    color: #fff;
+    font-size: 1.1rem;
+}
+
+.btn-info:hover {
+    background-color: #251833;
+    color: #fff;
+}
+
+.title {
+    text-align: center;
+    margin-bottom: 3.5rem;
+}
